@@ -1,0 +1,10 @@
+{
+  "name": "my-notes-api",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "crypto": "0.0.3",
+    "express": "^4.13.1"
+  }
+}
